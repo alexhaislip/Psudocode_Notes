@@ -1,0 +1,7 @@
+Common Action Keywords for Sequences
+
+Input: READ, OBTAIN, GET 
+Output: PRINT, DISPLAY, SHOW 
+Compute: COMPUTE, CALCULATE, DETERMINE 
+Initialize: SET, INIT 
+Add one: INCREMENT, BUMP
